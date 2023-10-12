@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "PhoneBookStuff",
+			"path": "..\\..\\..\\JavaWorkspace\\PhoneBookStuff"
+		},
+		{
+			"name": "JavaProject1",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
