@@ -17,9 +17,6 @@ Intermediete level program using JFrame and JElements to build a desktop app. <b
   <img src="https://github.com/user-attachments/assets/6cdd41bc-84d4-4bfc-82f9-229cc8999574" width=55%> <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cdd41bc-84d4-4bfc-82f9-229cc8999574" width=55%> <br>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/8dbff524-ff45-40e2-a3b0-9f1f9622397e" width=55%> <br>
 
 <p align="center">
