@@ -14,19 +14,19 @@ Intermediete level program using JFrame and JElements to build a desktop app. <b
 ### Screnshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cdd41bc-84d4-4bfc-82f9-229cc8999574" width=40%> <br>
+  <img src="https://github.com/user-attachments/assets/6cdd41bc-84d4-4bfc-82f9-229cc8999574" width=55%> <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cdd41bc-84d4-4bfc-82f9-229cc8999574" width=40%> <br>
+  <img src="https://github.com/user-attachments/assets/6cdd41bc-84d4-4bfc-82f9-229cc8999574" width=55%> <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8dbff524-ff45-40e2-a3b0-9f1f9622397e" width=40%> <br>
+  <img src="https://github.com/user-attachments/assets/8dbff524-ff45-40e2-a3b0-9f1f9622397e" width=55%> <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90fc6bbd-9309-40c8-88f6-9ea5639fa62e" width=40%> <br>
+  <img src="https://github.com/user-attachments/assets/90fc6bbd-9309-40c8-88f6-9ea5639fa62e" width=55%> <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d116b7f4-658b-4c9b-a68d-48ba7fc5f0da" width=40%> <br>
+  <img src="https://github.com/user-attachments/assets/d116b7f4-658b-4c9b-a68d-48ba7fc5f0da" width=55%> <br>
 </p>
 
 To my future self wanting to know how to format: 
